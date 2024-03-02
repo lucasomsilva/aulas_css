@@ -1,0 +1,38 @@
+.exercicio-a {
+
+    background-color: #e0bbe0;
+    width: 700px;
+    height: 550px;
+    border-radius: 5%;
+}
+
+.exercicio-b {
+    background-color: #0a4f09 ; 
+    width: 60%; 
+    height: 60%;
+    border-radius: 5%;
+}
+
+.paragraph-exercicio-c {
+    color: #000000; 
+    background-color: #ff0707ac; 
+    font-size: 30px; 
+    width: 100%;
+    height: 15%;
+    border-radius: 5%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-weight: bold;
+    font-style: oblique;
+}
+
+.exercicio-d {
+    width: 26%; 
+    height: 30vh; 
+    background-color: rgb(55, 141, 152);
+}
+
+.exercicio-e {
+    width: 26vw; 
+    height: 50%; 
+    background-color: rgb(247, 170, 4);
+}
